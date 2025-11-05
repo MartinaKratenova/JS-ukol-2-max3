@@ -1,0 +1,27 @@
+body {
+  background-color: lavender;
+  font-family: Arial, sans-serif;
+}
+
+.content {
+  max-width: 500px;
+  min-height: 50px;
+  border: 2px solid rgb(67, 93, 182);
+  background-color: thistle;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.h1 {
+
+  color: rgb(23, 40, 95);
+  padding-bottom: 50px;
+}
+
+.result {
+  font-weight: bold;
+  font-size: 20px;
+
+}
